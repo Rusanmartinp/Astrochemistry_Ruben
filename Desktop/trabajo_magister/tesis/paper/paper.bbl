@@ -1,0 +1,73 @@
+\begin{thebibliography}{18}
+\expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
+
+\bibitem[{{Baliunas} {et~al.}(1996){Baliunas}, {Nesme-Ribes}, {Sokoloff}, \&
+  {Soon}}]{baliunas1996}
+{Baliunas}, S.~L., {Nesme-Ribes}, E., {Sokoloff}, D., \& {Soon}, W.~H. 1996,
+  \apj, 460, 848
+
+\bibitem[{{B{\"o}hm-Vitense}(2007)}]{bohm2007}
+{B{\"o}hm-Vitense}, E. 2007, \apj, 657, 486
+
+\bibitem[{{Crawford}(1955)}]{crawford1955}
+{Crawford}, J.~A. 1955, \apj, 121, 71
+
+\bibitem[{{Dub{\'e}} \& {Charbonneau}(2013)}]{dube2013}
+{Dub{\'e}}, C. \& {Charbonneau}, P. 2013, \apj, 775, 69
+
+\bibitem[{{Eggleton} \& {Kisseleva-Eggleton}(2006)}]{eggleton2006}
+{Eggleton}, P.~P. \& {Kisseleva-Eggleton}, L. 2006, \apss, 304, 75
+
+\bibitem[{{Kippenhahn} \& {Weigert}(1967)}]{kippenhahn}
+{Kippenhahn}, R. \& {Weigert}, A. 1967, \zap, 65, 251
+
+\bibitem[{{Mennickent} {et~al.}(2012){Mennickent}, {Djura{\v s}evi{\'c}},
+  {Ko{\l}aczkowski}, \& {Michalska}}]{mennickent2012}
+{Mennickent}, R.~E., {Djura{\v s}evi{\'c}}, G., {Ko{\l}aczkowski}, Z., \&
+  {Michalska}, G. 2012, \mnras, 421, 862
+
+\bibitem[{{Mennickent} {et~al.}(2016){Mennickent}, {Otero}, \&
+  {Ko{\l}aczkowski}}]{mennick2016a}
+{Mennickent}, R.~E., {Otero}, S., \& {Ko{\l}aczkowski}, Z. 2016, \mnras, 455,
+  1728
+
+\bibitem[{{Mennickent} {et~al.}(2003){Mennickent}, {Pietrzy{\'n}ski}, {Diaz},
+  \& {Gieren}}]{mennickent2003}
+{Mennickent}, R.~E., {Pietrzy{\'n}ski}, G., {Diaz}, M., \& {Gieren}, W. 2003,
+  \aap, 399, L47
+
+\bibitem[{{Poleski} {et~al.}(2010){Poleski}, {Soszy{\'n}ski}, {Udalski},
+  {Szyma{\'n}ski}, {Kubiak}, {Pietrzy{\'n}ski}, {Wyrzykowski}, \&
+  {Ulaczyk}}]{poleski2010}
+{Poleski}, R., {Soszy{\'n}ski}, I., {Udalski}, A., {et~al.} 2010, \actaa, 60,
+  179
+
+\bibitem[{{Saar} \& {Brandenburg}(1999)}]{saar1999}
+{Saar}, S.~H. \& {Brandenburg}, A. 1999, \apj, 524, 295
+
+\bibitem[{{Schleicher} \& {Mennickent}(2017)}]{schleicher2017}
+{Schleicher}, D.~R.~G. \& {Mennickent}, R.~E. 2017, \aap, 602, A109
+
+\bibitem[{{Soker}(2000)}]{soker2000}
+{Soker}, N. 2000, \apj, 540, 436
+
+\bibitem[{{Soon} {et~al.}(1993){Soon}, {Baliunas}, \& {Zhang}}]{soon1993}
+{Soon}, W.~H., {Baliunas}, S.~L., \& {Zhang}, Q. 1993, \apjl, 414, L33
+
+\bibitem[{{van Rensbergen} {et~al.}(2008){van Rensbergen}, {De Greve}, {De
+  Loore}, \& {Mennekens}}]{vanrensbergen2008}
+{van Rensbergen}, W., {De Greve}, J.~P., {De Loore}, C., \& {Mennekens}, N.
+  2008, \aap, 487, 1129
+
+\bibitem[{{van Rensbergen} {et~al.}(2011){van Rensbergen}, {de Greve},
+  {Mennekens}, {Jansen}, \& {de Loore}}]{vanrensbergen2011}
+{van Rensbergen}, W., {de Greve}, J.~P., {Mennekens}, N., {Jansen}, K., \& {de
+  Loore}, C. 2011, \aap, 528, A16
+
+\bibitem[{{Zahn}(1989)}]{zahn1989}
+{Zahn}, J.-P. 1989, \aap, 220, 112
+
+\bibitem[{{Zahn} \& {Bouchet}(1989)}]{zahnbouchet1989}
+{Zahn}, J.-P. \& {Bouchet}, L. 1989, \aap, 223, 112
+
+\end{thebibliography}
